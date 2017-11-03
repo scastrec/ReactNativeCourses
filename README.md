@@ -24,3 +24,9 @@ A simple twitter like using [Api Cesi](https://github.com/StephaneC/ApiCesi/)
  * Utilisation de react-native-elements
 
 [Access to step3](https://github.com/StephaneC/ReactNativeCourses/tree/master/step3/)
+
+## Step 4
+Generation of an add
+ * Create index.ios.js and index.android.js
+ * react-native bundle --platform android --dev false --entry-file index.android.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res/
+* <Issue> Had to `react-native update` and `react upgrade`  
