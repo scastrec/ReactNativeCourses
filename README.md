@@ -15,10 +15,10 @@ Improving step 1 to add react native components and hello http
 
 ## Step 3
 A simple twitter like using [Api Cesi](https://github.com/StephaneC/ApiCesi/)
-[Access to step2](https://github.com/StephaneC/ReactNativeCourses/tree/master/step2/)
  * ApiCesi access 
  * React components 
  * Navigation between screens
  * Navigation menu
  * List 
  * Utilisation de react-native-elements
+[Access to step3](https://github.com/StephaneC/ReactNativeCourses/tree/master/step3/)
