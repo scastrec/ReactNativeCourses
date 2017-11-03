@@ -11,6 +11,7 @@ Improving step 1 to add react native components and hello http
  * Http call on ping/pong and Hello
  * React components 
  * Navigation between screens and Tab
+
 [Access to step2](https://github.com/StephaneC/ReactNativeCourses/tree/master/step2/)
 
 ## Step 3
@@ -21,4 +22,5 @@ A simple twitter like using [Api Cesi](https://github.com/StephaneC/ApiCesi/)
  * Navigation menu
  * List 
  * Utilisation de react-native-elements
+
 [Access to step3](https://github.com/StephaneC/ReactNativeCourses/tree/master/step3/)
